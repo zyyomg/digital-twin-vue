@@ -1,3 +1,4 @@
+<img width="773" height="942" alt="ScreenShot_terminal" src="https://github.com/user-attachments/assets/3cdcc2bb-f165-43d9-8eae-9e9336902229" />
 # 工业设备状态监控与数字孪生系统 (Digital Twin Monitoring System)
 
 ## 项目简介
@@ -24,3 +25,26 @@
 3. 安装前端依赖: `npm install`
 4. 启动 Vue 项目: `npm run dev`
 5. 访问 `http://localhost:5173/` 查看 3D 数字孪生看板
+
+## 项目截图
+
+## 1.终端数据流
+<img width="773" height="942" alt="ScreenShot_terminal" src="https://github.com/user-attachments/assets/79b46d94-c590-4842-ab40-2ccd478abc9e" />
+
+
+## 2.Grafana 监控看板 - 总览
+<img width="1659" height="1308" alt="ScreenShot_Dashboards_normal" src="https://github.com/user-attachments/assets/4b636cec-7b57-4f92-9906-e23f300b0628" />
+
+
+## 3. Grafana 监控看板 - 告警与指标分析
+<img width="891" height="426" alt="ScreenShot_alert2" src="https://github.com/user-attachments/assets/4c22bf26-4f49-4c44-b1c7-bc35482670a6" />
+<img width="929" height="453" alt="ScreenShot_alert_recover" src="https://github.com/user-attachments/assets/7e8cc468-114b-4c14-a8be-a6ca82c48c3c" />
+<img width="915" height="435" alt="ScreenShot_alert_firing" src="https://github.com/user-attachments/assets/477f86d3-7ba0-49f0-8100-e29009e52c43" />
+
+
+## 4. 3D 数字孪生设备状态视觉映射对比
+<img width="1164" height="527" alt="ScreenShot_normal_model" src="https://github.com/user-attachments/assets/88b8fec2-1744-46fd-b2dd-27b676e0a840" />
+<img width="897" height="474" alt="ScreenShot_alert_models" src="https://github.com/user-attachments/assets/4fb50a9b-b72e-45eb-a6a2-0cc63398fbc4" />
+
+
+   
