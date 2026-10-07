@@ -1,4 +1,3 @@
-<img width="773" height="942" alt="ScreenShot_terminal" src="https://github.com/user-attachments/assets/3cdcc2bb-f165-43d9-8eae-9e9336902229" />
 # 工业设备状态监控与数字孪生系统 (Digital Twin Monitoring System)
 
 ## 项目简介
